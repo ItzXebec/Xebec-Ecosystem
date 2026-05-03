@@ -1,4 +1,4 @@
-rootProject.name = 'Xebec-Ecosystem'
+rootProject.name = 'Nexus-Ecosystem'
 
-include 'XCore'
-include 'XKeyStrokes'
+include 'Nexus'
+include 'NexusKeys'
